@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28724707/README.md)
 # Portal Digital Institucional
 
 Réplica funcional e independiente del portal analizado. No utiliza cuentas,
